@@ -22,10 +22,7 @@ Interested Domains: Cloud Security | AWS | PHP, JavaScript & TypeScript-based We
 - 🌍 Languages : **Sinhala & English**
 - ⚡ Fun fact : **I'm a sound designer and music producer who uses architectural principles to design automated cloud security playbooks.**
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/nerovoxx/count.svg" alt="System Traffic Monitor">
-</p>
-
+`STATUS: Operational // Traffic Monitored via Platform Supply Chain Audit`
 
 <details>
   <summary>📃 Resume</summary>
