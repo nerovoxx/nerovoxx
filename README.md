@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://emailnero.gt.tc/banner.png?raw=true" width="100%" alt="NeroVoxx Cloud Security & Automation Engineer Banner">
+</p>
+
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <img src="view-demo-button.png" width="220" alt="View Live Demo">
+  </a>
+  <a href="https://your-docs-link.com">
+    <img src="read-docs-button.png" width="220" alt="Read Architecture Docs">
+  </a>
+</p>
+
+
+
 <h1>
   Hi there, I'm Nero Voxx! <a href="https://www.linkedin.com/in/nerovoxx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@nerovoxx"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a><a href="https://www.nerovoxx.com"><img src="https://img.shields.io/badge/website-1c2277?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </h1>
