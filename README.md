@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://emailnero.gt.tc/vvv.png?raw=true" width="100%" alt="NeroVoxx Cloud Security & Automation Engineer Banner">
 </p>
+<p align="center">
+  <a href="https://linkedin.com/in/nerovoxx"><img src="https://placehold.co/400x150/0b0f19/42e2f1?text=SLICE+A:+LINKEDIN" width="33.33%" alt="LinkedIn Slice"/></a><a href="https://github.com/nerovoxx/nerovault"><img src="https://placehold.co/400x150/090d16/9b5de5?text=SLICE+B:+NEROVAULT" width="33.33%" alt="Project Slice"/></a><a href="https://nerovoxx.com"><img src="https://placehold.co/400x150/0b0f19/5199ff?text=SLICE+C:+WEBSITE" width="33.34%" alt="Website Slice"/></a>
+</p>
 
 <h1>
   Hi there, I'm Nero Voxx! <a href="https://www.linkedin.com/in/nerovoxx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@nerovoxx"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a><a href="https://www.nerovoxx.com"><img src="https://img.shields.io/badge/website-1c2277?style=for-the-badge&logo=About.me&logoColor=white" /></a>
