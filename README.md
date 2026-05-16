@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://emailnero.gt.tc/vvv.png?raw=true" width="100%" align="top" alt="NeroVoxx Cloud Security & Automation Engineer Banner"/><br><a href="https://linkedin.com/in/nerovoxx"><img src="https://placehold.co/400x150/0b0f19/42e2f1?text=Box+1" width="33.33%" align="top" alt="Row 1 Slice A"/></a><a href="https://github.com/nerovoxx/nerovault"><img src="https://placehold.co/400x150/090d16/9b5de5?text=Box+2" width="33.33%" align="top" alt="Row 1 Slice B"/></a><a href="https://nerovoxx.com"><img src="https://placehold.co/400x150/0b0f19/5199ff?text=Box+3" width="33.34%" align="top" alt="Row 1 Slice C"/></a><br><a href="https://linkedin.com/in/nerovoxx"><img src="https://placehold.co/400x150/0000FF/ffffff?text=Box+4" width="33.33%" align="top" alt="Row 2 Slice A"/></a><a href="https://github.com/nerovoxx/nerovault"><img src="https://placehold.co/400x150/ff00FF/ffffff?text=Box+5" width="33.33%" align="top" alt="Row 2 Slice B"/></a><a href="https://nerovoxx.com"><img src="https://placehold.co/400x150/0000FF/ffffff?text=Box+6" width="33.34%" align="top" alt="Row 2 Slice C"/></a>
+  <img src="https://emailnero.gt.tc/bbnnnn.png?raw=true" width="100%" alt="NeroVoxx Cloud Security & Automation Engineer Banner">
 </p>
 
 <h1>
