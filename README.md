@@ -22,10 +22,9 @@ Interested Domains: Cloud Security | AWS | PHP, JavaScript & TypeScript-based We
 - 🌍 Languages : **Sinhala & English**
 - ⚡ Fun fact : **I'm a sound designer and music producer who uses architectural principles to design automated cloud security playbooks.**
 
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nerovoxx&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<p align="left">
+  <img src="https://profile-counter.glitch.me/nerovoxx/count.svg" alt="System Traffic Monitor">
 </p>
-
 
 
 <details>
