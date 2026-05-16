@@ -23,6 +23,9 @@ Interested Domains: Cloud Security | AWS | PHP, JavaScript & TypeScript-based We
 - ⚡ Fun fact : **I'm a sound designer and music producer who uses architectural principles to design automated cloud security playbooks.**
 
 `STATUS: Operational // Traffic Monitored via Platform Supply Chain Audit`
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nerovoxx&color=5199ff&style=flat-square&label=SYSTEM+TRAFFIC" alt="Live Profile Views" />
+</p>
 
 <details>
   <summary>📃 Resume</summary>
