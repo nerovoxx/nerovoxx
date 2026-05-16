@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://emailnero.gt.tc/ggg.png?raw=true" width="100%" alt="NeroVoxx Cloud Security & Automation Engineer Banner">
+  <img src="https://emailnero.gt.tc/vvv.png?raw=true" width="100%" alt="NeroVoxx Cloud Security & Automation Engineer Banner">
 </p>
 
 <p align="center">
