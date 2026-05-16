@@ -2,10 +2,10 @@
   <img src="https://emailnero.gt.tc/vvv.png?raw=true" width="100%" alt="NeroVoxx Cloud Security & Automation Engineer Banner">
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/nerovoxx"><img src="https://placehold.co/400x150/0b0f19/42e2f1?text=SLICE+A:+LINKEDIN" width="33.33%" alt="LinkedIn Slice"/></a><a href="https://github.com/nerovoxx/nerovault"><img src="https://placehold.co/400x150/090d16/9b5de5?text=SLICE+B:+NEROVAULT" width="33.33%" alt="Project Slice"/></a><a href="https://nerovoxx.com"><img src="https://placehold.co/400x150/0b0f19/5199ff?text=SLICE+C:+WEBSITE" width="33.34%" alt="Website Slice"/></a>
+  <a href="LINK_A"><img src="slice_a1.png" width="33.33%" align="top"/></a><a href="LINK_B"><img src="slice_b1.png" width="33.33%" align="top"/></a><a href="LINK_C"><img src="slice_c1.png" width="34.34%" align="top"/></a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/nerovoxx"><img src="https://placehold.co/400x150/0000ff/42e2f1?text=SLICE+A:+LINKEDIN" width="33.33%" alt="LinkedIn Slice"/></a><a href="https://github.com/nerovoxx/nerovault"><img src="https://placehold.co/400x150/0000ff/9b5de5?text=SLICE+B:+NEROVAULT" width="33.33%" alt="Project Slice"/></a><a href="https://nerovoxx.com"><img src="https://placehold.co/400x150/0000ff/5199ff?text=SLICE+C:+WEBSITE" width="33.34%" alt="Website Slice"/></a>
+  <a href="LINK_D"><img src="slice_a2.png" width="33.33%" align="top"/></a><a href="LINK_E"><img src="slice_b2.png" width="33.33%" align="top"/></a><a href="LINK_F"><img src="slice_c2.png" width="34.34%" align="top"/></a>
 </p>
 
 <h1>
